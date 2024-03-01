@@ -11,4 +11,4 @@
 
 
 ### Contatos
-< img src="edin.com/in/carlos-eduardo-a46681225/edit/forms/intro/new/?profileFormEntryPoint=PROFILE_SECTION alt="Linkedin" height='30'> (https://www.linkedin.com)
+< img src="https://edin.com/in/carlos-eduardo-a46681225/edit/forms/intro/new/?profileFormEntryPoint=PROFILE_SECTION alt="Linkedin" height='30'> (https://www.linkedin.com)
